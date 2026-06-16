@@ -1,7 +1,6 @@
 # =============================================================
 # Windows 365 Cloud PC Provisioning Toolkit
 # Author : Shubham Rastogi
-# Based on 45,000+ W365 Cloud PC deployments at J&J / Avantor
 # =============================================================
 
 terraform {
